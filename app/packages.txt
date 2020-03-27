@@ -7,5 +7,22 @@
 # bare miniminum: configurations are stored in json format
 jsonlite
 
-# if deploying shiny based applications:
+data.table
+DT
+fs
+Imap
+leaflet
+leaflet.extras
+leaflet.providers
+RColorBrewer
+RODBC
+readr
+serial
 shiny
+shinyjqui
+shinythemes
+shinyWidgets
+tidyverse
+
+
+
